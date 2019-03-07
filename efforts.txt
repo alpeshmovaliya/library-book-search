@@ -1,0 +1,32 @@
+
+Plugin Name: Library Book Search
+
+Efforts for the particular task for the plugin.
+
+> Project and plugin code setup in local - 1 hour
+
+> Created admin menu for backend - 0.5 hours
+
+> Created post and taxonomies via plugin - 1 hour
+
+> Created custom fields for book post - 1 hour
+
+> Created shortcode for front book search - 2.5 hours
+
+> Front form design by Bootstrap integration - 0.5 hour
+
+> AJAX and Query logic in plugin - 2.5 hours
+
+> Create AJAX as a function for general use - 0.5 hour
+
+> Pagination by AJAX - 2.5 hours
+
+> Reset filter functionality - 0.5 hour
+
+> Added links for author and publisher in search books data and detail page data fetch - 1 hour
+
+> Unit testing - 2 hours
+
+TOTAL EFFORTS: 15.5 HOURS
+
+
