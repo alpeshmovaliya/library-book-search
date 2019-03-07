@@ -1,0 +1,61 @@
+
+/*Custom CSS goes here*/
+.wrapper .book_form {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+.wrapper .book_form input, .wrapper .book_form select {
+    margin-bottom: 10px;
+    float: left;
+    width: 100%;
+}
+.table a {
+    text-decoration: none !important;
+    box-shadow: none !important;
+}
+.table a:hover {
+    box-shadow: none !important;
+    text-decoration: underline !important;
+}
+.table td img {
+    display: inline-block;
+    width: 20px;
+    height: auto;
+}
+#book_price {
+    padding-top: 15px;
+}
+.ajax_loader_image {
+    display: none;
+}
+#book_search_btn:hover {
+    background: #000;
+}
+#book_search_btn:disabled {
+    opacity: 0.5;
+}
+.book_pagination ul {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+}
+.book_pagination ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 5px;
+}
+.book_pagination ul li a, .book_pagination ul li span {
+    padding: 5px 10px;
+}
+.book_pagination ul li a {
+    border: 1px solid #fff;
+}
+.book_pagination ul li.active a, .book_pagination ul li a:hover, .book_pagination ul li.active span {
+    border: 1px solid #000;
+}
+.reset_data {
+    float: right;
+}
+/*Custom CSS goes here*/
